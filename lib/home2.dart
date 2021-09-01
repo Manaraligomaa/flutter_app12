@@ -43,7 +43,7 @@ class MyHomePage extends StatelessWidget {
                   Container(
                     padding: const EdgeInsets.all(3),
                     child: Image.asset('image/4.jpg'),
-                    color: Colors.blue[900],
+                    color: Colors.blue[800],
                   ),
                 ],
               )
